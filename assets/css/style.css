@@ -559,15 +559,13 @@ section {
 .goTOCode-btn {
   display: inline-block;
   margin-top: 20px;
-  background: #d736ff;
+  background: #67b0d1;
   padding: 6px 44px 8px 30px;
   color: #fff;
   border-radius: 50px;
   transition: 0.3s;
   position: relative;
 }
-
-
 
 .about .content .about-btn i {
   font-size: 18px;
