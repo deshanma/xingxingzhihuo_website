@@ -766,10 +766,10 @@ section {
   border-color: #fff;
 }
 
-/* #imgid {
-  justify-content: center;
-  border: #000000 4px;
-} */
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
 
 /*--------------------------------------------------------------
 # Portfolio
